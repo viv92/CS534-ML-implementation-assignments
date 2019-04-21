@@ -1,0 +1,5 @@
+Code is written in Python 3.6
+In Assignment3_Group_ASV.py, def main(): contains the calls to the routines for different parts of the assignment
+Our code assumes that files pa3_train_reduced.csv and pa3_valid_reduced.csv are in the same directory
+Graphs are generated in the same directory
+
